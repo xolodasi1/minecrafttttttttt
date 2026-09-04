@@ -1,0 +1,6 @@
+{
+  "name": "Minecraft World Manager & Unity C# Engine",
+  "description": "Minecraft clone world selection and creation menu for PC with Flat and Default worlds, save file manager, 3D voxel preview, and Unity C# landscape generation scripts.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
